@@ -1,4 +1,4 @@
-# crudAutorizacoes
+# CRUD para sistema de autorizações escolares
 ## Front baseado em um sistema de autorizações escolares.
 
 ### Tela 1
